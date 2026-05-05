@@ -52,7 +52,7 @@ Always improving, always learning
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ma7moudSelmy&theme=react-dark&hide_border=true&area=true"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudSelmi&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
