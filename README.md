@@ -5,12 +5,14 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;I+Build+Clean+Experiences;Always+Leveling+Up"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;I+Build+Clean+Experiences;Always+Leveling+Up;4th+Year+BIS+Student"/>
 </p>
 
-<!-- VISITOR COUNTER -->
+<!-- SOCIAL BADGES ROW -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MahmoudSelmi&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/MahmoudSelmi?style=for-the-badge&color=00F7FF&labelColor=black"/>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF9C?style=for-the-badge&labelColor=black"/>
 </p>
 
 <!-- QUOTE -->
@@ -51,6 +53,15 @@ Always improving, always learning
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahmoudSelmi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSelmi&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
+</p>
+
+---
+
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MahmoudSelmi&theme=dracula&column=7&margin-w=10&margin-h=10"/>
@@ -60,7 +71,7 @@ Always improving, always learning
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSelmi&theme=react&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSelmi&theme=react&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF"/>
 </p>
 
 ---
@@ -69,15 +80,6 @@ Always improving, always learning
 <p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudSelmi&theme=react-dark&hide_border=true&area=true"/>
 </p>
-
----
-
-## 🧊 Isometric 3D Contribution Calendar
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MahmoudSelmi/MahmoudSelmi/master/metrics.isocalendar.svg"/>
-</p>
-
-> ⚠️ لتفعيل هذا القسم: أضف ملف `.github/workflows/metrics.yml` الموضح في الأسفل، وأنشئ Personal Access Token واحفظه في Secrets باسم `METRICS_TOKEN`.
 
 ---
 
