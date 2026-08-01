@@ -8,10 +8,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;I+Build+Clean+Experiences;Always+Leveling+Up;4th+Year+BIS+Student"/>
 </p>
 
-<!-- SOCIAL BADGES ROW -->
+<!-- PROFILE VIEWS COUNTER (count only, no identity - GitHub does not expose visitor identity) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MahmoudSelmi&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/MahmoudSelmi?style=for-the-badge&color=00F7FF&labelColor=black"/>
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF9C?style=for-the-badge&labelColor=black"/>
 </p>
 
@@ -56,8 +55,8 @@ Always improving, always learning
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahmoudSelmi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudSelmi&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MahmoudSelmi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MahmoudSelmi&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
 </p>
 
 ---
@@ -71,7 +70,7 @@ Always improving, always learning
 
 ## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudSelmi&theme=react&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF"/>
+  <img src="https://streak-stats.demolab.com/?user=MahmoudSelmi&theme=react&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF"/>
 </p>
 
 ---
