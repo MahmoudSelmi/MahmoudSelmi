@@ -77,6 +77,8 @@ Always improving, always learning
   <img src="https://raw.githubusercontent.com/MahmoudSelmi/MahmoudSelmi/master/metrics.isocalendar.svg"/>
 </p>
 
+> ⚠️ لتفعيل هذا القسم: أضف ملف `.github/workflows/metrics.yml` الموضح في الأسفل، وأنشئ Personal Access Token واحفظه في Secrets باسم `METRICS_TOKEN`.
+
 ---
 
 ## 🧠 Contribution Snake
