@@ -5,13 +5,7 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;I+Build+Clean+Experiences;Always+Leveling+Up;4th+Year+BIS+Student"/>
-</p>
-
-<!-- PROFILE VIEWS COUNTER (count only, no identity - GitHub does not expose visitor identity) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MahmoudSelmi&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00FF9C?style=for-the-badge&labelColor=black"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;I+Build+Clean+Experiences;Always+Leveling+Up"/>
 </p>
 
 <!-- QUOTE -->
@@ -31,6 +25,7 @@
 ---
 
 ## 👨‍💻 About Me
+
 <p align="center">
 Mobile App Developer specializing in Flutter <br/>
 Currently a fourth-year Business Information Systems student <br/>
@@ -41,9 +36,11 @@ Always improving, always learning
 ---
 
 ## ⚡ Tech Arsenal
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,python,linux,androidstudio,vscode,git,github,cpp,c&theme=dark"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/State%20Management-Bloc-00F7FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/API%20Handling-REST-00F7FF?style=for-the-badge"/>
@@ -52,30 +49,8 @@ Always improving, always learning
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MahmoudSelmi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MahmoudSelmi&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahmoudSelmi&theme=dracula&column=7&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MahmoudSelmi&theme=react&hide_border=true&background=0d1117&ring=00F7FF&fire=00F7FF"/>
-</p>
-
----
-
 ## 📊 GitHub Activity
+
 <p align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudSelmi&theme=react-dark&hide_border=true&area=true"/>
 </p>
@@ -83,20 +58,15 @@ Always improving, always learning
 ---
 
 ## 🧠 Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-## 💬 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:Ma7moud.m.selmy1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
